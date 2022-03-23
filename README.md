@@ -1,46 +1,17 @@
-![logo](https://user-images.githubusercontent.com/59187439/156495021-91583b01-3aad-4bdf-80bf-e56b3d06c506.JPG)
-![circuit fixer logo](https://user-images.githubusercontent.com/59187439/156495815-2581c3cc-50cc-4888-b0c7-943083b4e951.png)
+![logo](https://user-images.githubusercontent.com/59187439/156495021-91583b01-3aad-4bdf-80bf-e56b3d06c506.JPG)![circuit fixer logo](https://user-images.githubusercontent.com/59187439/156495815-2581c3cc-50cc-4888-b0c7-943083b4e951.png)
 
-## Welcome to Circuit Fixer, A subsidiary of AEROLUMEN ENGINEERING
+# Welcome to Circuit Fixer, A subsidiary of AEROLUMEN ENGINEERING
 Your ultimate supply chain solution for renewable energy power plants.
-We offer repair and manufacture service for all kinds of wind turbine, solar farm parts including IGBT based inverters and circuit breakers. 
-For any questions please email to __INFO@CIRCUITFIXER.COM
+We offer repair and manufacture service for parts of various wind turbines and solar farms including circuit breakers and IGBT based inverters. 
+For any questions please email to  INFO@CIRCUITFIXER.COM
+
+## We currently service the following products:
+![EMAX CB](https://user-images.githubusercontent.com/59187439/159602863-51888016-beb1-408e-acd0-7182c6bef9f9.png)
+![TMAX CB](https://user-images.githubusercontent.com/59187439/159603309-8db7570c-da6e-44a8-b59b-c4c12a8c9f8c.png)
+![abb acs 800](https://user-images.githubusercontent.com/59187439/159604454-5907d037-d14a-4bd0-9322-81b31b1f9c2e.png)
+![ABB ACS800 liquid](https://user-images.githubusercontent.com/59187439/159604943-e6264ed4-f0a5-4319-a4b1-dee017a4db5f.png)
+![ge delta](https://user-images.githubusercontent.com/59187439/159605788-1ff2e372-ea13-4510-896b-b313141698b1.png)
 
 
-~~BLANK
 
-~~You can use the [editor on GitHub](https://github.com/Rummanraihan/Test_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-~~Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-~~Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-~~```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-~~For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-~~Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rummanraihan/Test_website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
